@@ -81,4 +81,6 @@
 /*/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /*/[Aa]ssets/[Ss]treamingAssets/aa/*
 
-.git/
+# Text Mesh Pro assets
+/*/*/[Tt]extMesh Pro
+/*/*/[Tt]extMeshPro
